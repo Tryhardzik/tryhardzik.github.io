@@ -2,12 +2,6 @@ body {
 font-family: Segoe UI	;
 background-color: #e8e6e6;
 }
-header {
-color: #000000;
-font-family:Lucida Console;
-font-size: 25px;
-text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
 nav {
 	width: 225px;
 	border-bottom: 4px solid black;
