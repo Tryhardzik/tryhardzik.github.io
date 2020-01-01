@@ -23,16 +23,12 @@ a {
 }
 
 main {
-border-top: 4px solid black;
+height: 125px;
+	border-top: 4px solid black;
 	text-shadow: 2px 2px #000000;
-	font-size: 25px;
+	font-size: 50px;
 	color: white;
 	padding: 150px;
-	background-image: url("kontakt.png");
-	background-color: #cccccc;
-	height: 125px;
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
-	border-bottom: 4px solid black;	
+	background-image: linear-gradient(lime, yellow, orange);
+	border-bottom: 4px solid black;
 }
