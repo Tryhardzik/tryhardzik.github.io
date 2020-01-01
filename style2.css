@@ -1,0 +1,40 @@
+body {
+	font-family: Segoe UI;
+	background-color: #e8e6e6;
+}
+
+header {
+	color: #000000;
+	font-family: Lucida Console;
+	font-size: 25px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+nav {
+	width: 225px;
+	border-bottom: 4px solid black;
+	background-color: #d3d3d3
+}
+
+a {
+	text-decoration: none;
+}
+
+
+main {
+	border-top: 4px solid black;
+	text-shadow: 2px 2px #000000;
+	font-size: 50px;
+	color: white;
+	padding: 150px;
+	background-image: url("programowanie.jpg");
+	background-color: #cccccc;
+	height: 125px;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-bottom: 4px solid black;
+}
+
+#blok_2 {
+	font-size: 25px;
+}
