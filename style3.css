@@ -1,14 +1,17 @@
 body {
-	font-family: Segoe UI;
-	background-color: #e8e6e6;
+font-family: Pt Sans;
+background-color: grey;
 }
 
 header {
-	color: #000000;
-	font-family: Lucida Console;
-	font-size: 25px;
-	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+color: #000000;
+font-family:Lucida Console;
 }
+
+skrrt {
+	color: black
+}
+
 nav {
 	width: 225px;
 	border-bottom: 4px solid black;
@@ -16,7 +19,11 @@ nav {
 }
 
 a {
-	border-top: 4px solid black;
+	text-decoration: none;
+}
+
+main {
+border-top: 4px solid black;
 	text-shadow: 2px 2px #000000;
 	font-size: 25px;
 	color: white;
@@ -27,5 +34,5 @@ a {
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	border-bottom: 4px solid black;
+	border-bottom: 4px solid black;	
 }
